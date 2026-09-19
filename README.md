@@ -1,2 +1,2 @@
 # paper
-escritos sobre futuros artículos.
+escritos sobre futuros artículos. en construccion....
