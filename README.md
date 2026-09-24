@@ -1,2 +1,5 @@
 # artículos
-escritos sobre futuros artículos. en construcción....
+Escritos sobre futuros artículos.
+modelos matematicos
+educacion
+en construcción....
